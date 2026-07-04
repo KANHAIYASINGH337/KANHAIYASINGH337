@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kanhaiya Kumar Singh
+# Hi👋, I'm Kanhaiya Kumar Singh
 
 <div align="center">
 
@@ -22,7 +22,6 @@
 
 🎯 Goal:
 - Software Development Engineer (SDE)
-- Java Developer
 - Full Stack MERN Developer
 
 ---
