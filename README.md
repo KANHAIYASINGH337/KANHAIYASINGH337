@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 🎓 B.Tech in Information Technology at Haldia Institute of Technology (2023–2027)
 
@@ -67,7 +67,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🌐 Personal Portfolio
 🔗 https://kanhaiyasingh-portfolio.vercel.app
