@@ -8,7 +8,7 @@
 
 ---
 
-##  About Me
+## About Me
 
 🎓 B.Tech in Information Technology at Haldia Institute of Technology (2023–2027)
 
@@ -101,6 +101,7 @@ Features:
 ### ⭐ "Code. Learn. Build. Repeat."
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=KANHAIYASINGH337&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 </div>
 <!--
