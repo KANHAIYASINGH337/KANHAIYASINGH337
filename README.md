@@ -100,7 +100,7 @@ Full Stack Developer & IT Undergraduate at **Haldia Institute of Technology** (2
 - Architected UI modules for active emergency alerts, 24-hour vitals trend charts, medicine schedule, and emergency contact management.
 - Delivered robust data flow between AI computer vision processing modules and React dashboard.
 
-### 🍽️ [Recipe Hub — Full Stack Recipe Sharing Platform](https://myrecipehub.vercel.app) 🔗 `[myrecipehub.vercel.app]`
+### 🍽️ [Recipe Hub — Full Stack Recipe Sharing Platform](https://myrecipehub.vercel.app) 🔗 `[Live Demo]`
 > **Production MERN Application** | *React.js, Redux, Node.js, Express.js, MongoDB Atlas, JWT, Vercel, Render*
 - Built a full-stack platform with 8 RESTful endpoints covering recipe management, user authentication, and admin functions.
 - Implemented **JWT authentication** & **bcrypt password hashing** with 7-day token expiration for secure session security.
